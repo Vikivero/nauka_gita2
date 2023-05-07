@@ -1,1 +1,3 @@
-# nauka_gita2
+# powtorka gita
+'nauka gita'
+bjkkj
